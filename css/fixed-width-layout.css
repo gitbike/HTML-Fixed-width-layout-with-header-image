@@ -12,3 +12,11 @@
   background-image: url(../images/header.jpg);
   background-size: cover;
 }
+
+.header .site-title{
+  text-align: center;
+}
+
+.header .site-title a {
+  color: white;
+}
